@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqnfCJdVQXD0T0V1MdnlO7OnfSvubgcvzOSy6xvcS7pkZer42LmMPxBnAxMBk/maOajh2ax3OtFy128+pujlbg==",
+  "success": true,
+  "projectFilePath": "E:\\Git\\Project\\TestPrism\\TestPrism\\TestPrism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\75187\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\prism.dryioc\\8.1.97\\prism.dryioc.8.1.97.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\75187\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

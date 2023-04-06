@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="App.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="App.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.117" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IDAL\IDAL.csproj" />
+  </ItemGroup>
+
+</Project>

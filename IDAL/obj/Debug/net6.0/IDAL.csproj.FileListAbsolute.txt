@@ -1,0 +1,15 @@
+E:\Git\Project\TestPrism\IDAL\bin\Debug\net6.0\IDAL.deps.json
+E:\Git\Project\TestPrism\IDAL\bin\Debug\net6.0\IDAL.dll
+E:\Git\Project\TestPrism\IDAL\bin\Debug\net6.0\IDAL.pdb
+E:\Git\Project\TestPrism\IDAL\bin\Debug\net6.0\Entity.dll
+E:\Git\Project\TestPrism\IDAL\bin\Debug\net6.0\Entity.pdb
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\IDAL.csproj.AssemblyReference.cache
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\IDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\IDAL.AssemblyInfoInputs.cache
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\IDAL.AssemblyInfo.cs
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\IDAL.csproj.CoreCompileInputs.cache
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\IDAL.csproj.CopyComplete
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\IDAL.dll
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\refint\IDAL.dll
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\IDAL.pdb
+E:\Git\Project\TestPrism\IDAL\obj\Debug\net6.0\ref\IDAL.dll

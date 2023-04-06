@@ -1,0 +1,15 @@
+E:\Git\Project\TestPrism\IBLL\bin\Debug\net6.0\IBLL.deps.json
+E:\Git\Project\TestPrism\IBLL\bin\Debug\net6.0\IBLL.dll
+E:\Git\Project\TestPrism\IBLL\bin\Debug\net6.0\IBLL.pdb
+E:\Git\Project\TestPrism\IBLL\bin\Debug\net6.0\Entity.dll
+E:\Git\Project\TestPrism\IBLL\bin\Debug\net6.0\Entity.pdb
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\IBLL.csproj.AssemblyReference.cache
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\IBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\IBLL.AssemblyInfoInputs.cache
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\IBLL.AssemblyInfo.cs
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\IBLL.csproj.CoreCompileInputs.cache
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\IBLL.csproj.CopyComplete
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\IBLL.dll
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\refint\IBLL.dll
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\IBLL.pdb
+E:\Git\Project\TestPrism\IBLL\obj\Debug\net6.0\ref\IBLL.dll

@@ -1,0 +1,74 @@
+﻿<UserControl x:Class="TestPrism.Views.LoginView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:TestPrism.Views"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="200"
+             d:DesignWidth="400"
+             mc:Ignorable="d">
+    <UserControl.Resources>
+        <DataTemplate x:Key="loginItemTemplate">
+            <Grid Background="Blue">
+                <StackPanel Margin="20" Background="Red" Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="100" Margin="10" Text="用户名：" />
+                        <TextBlock Width="100" Margin="10" Text="{Binding UserName}" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="100" Margin="10" Text="密码：" />
+                        <TextBlock Width="100" Margin="10" Text="{Binding Password}" />
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="100" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="200" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <!--<ListView x:Name="ListBox_StudentList"
+                  Grid.Row="0"
+                  Background="Aqua"
+                  ItemTemplate="{StaticResource loginItemTemplate}"
+                  ItemsSource="{Binding UserList}" />-->
+        <StackPanel Grid.ColumnSpan="3" Background="DeepSkyBlue">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="xxx登陆系统"/>
+        </StackPanel >
+        <StackPanel Grid.Row="1" >
+            <Image Source="{Binding }"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <StackPanel Margin="10">
+                <StackPanel Orientation="Horizontal" Margin="3">
+                    <TextBlock Text="用户名："/>
+                    <TextBox Width="100" Text="{Binding User.UserName}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="3">
+                    <TextBlock Text="密    码："/>
+                    <TextBox Width="100" Text="{Binding User.Password}"/>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
+                <Button Margin="3" Command="{Binding LoginCommand}" Content="登陆" Width="50"/>
+                <Button Margin="3" Content="退出" Command="{Binding LogoutCommand}" Width="50"/>
+            </StackPanel>
+
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="3" Background="DodgerBlue">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="xxx">
+            </TextBlock>
+        </StackPanel>
+
+    </Grid>
+
+</UserControl>
